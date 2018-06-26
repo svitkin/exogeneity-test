@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530000397871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "75341262",
+    "lastKnownWriteTime" : 1530001882,
+    "last_content_update" : 1530001882251,
+    "path" : "C:/Users/smarc/Documents/Repositories/exogeneity-test/R/table1-replication.R",
+    "project_path" : "R/table1-replication.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
